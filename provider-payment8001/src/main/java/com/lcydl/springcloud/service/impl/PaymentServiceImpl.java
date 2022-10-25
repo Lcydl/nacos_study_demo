@@ -13,11 +13,11 @@ public class PaymentServiceImpl implements PaymentService {
 
     @Override
     public int create(Payment payment) {
-        return 0;
+        return paymentDao.create(payment);
     }
 
     @Override
     public Payment getPaymentById(Long id) {
-        return null;
+        return paymentDao.getPaymentById(id);
     }
 }
