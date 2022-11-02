@@ -10,6 +10,7 @@
     <modules>
         <module>provider-payment8001</module>
         <module>consumer-order80</module>
+        <module>cloud-api-commons</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
