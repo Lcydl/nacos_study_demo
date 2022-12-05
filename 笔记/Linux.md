@@ -5,6 +5,12 @@
 su root
 ```
 
+## Debian
+
+[下载地址](https://www.debian.org/download)
+
+[Virtual Box教程](https://blog.csdn.net/hutc_Alan/article/details/123850184)
+
 ## JDK
 
 [下载地址](https://www.oracle.com/java/technologies/downloads/)
