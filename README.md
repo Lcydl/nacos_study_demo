@@ -4,3 +4,5 @@
 JDK：1.8
 
 MAVEN：3.8.6
+
+Linux：Debian 11
