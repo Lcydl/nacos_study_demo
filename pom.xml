@@ -16,6 +16,7 @@
         <module>provider-payment8002</module>
         <module>providerconsul-payment8006</module>
         <module>consumerconsul-order80</module>
+        <module>consumer-feign-order80</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
