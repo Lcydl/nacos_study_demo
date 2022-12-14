@@ -17,6 +17,9 @@
         <module>providerconsul-payment8006</module>
         <module>consumerconsul-order80</module>
         <module>consumer-feign-order80</module>
+        <module>provider-hystrix-payment8001</module>
+        <module>consumer-feign-hystrix-order80</module>
+        <module>provider-hystrix-payment8002</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
